@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya-81
+- 👋 Hi, I’m Aditya
 - 👀 just a coding enthusiastic
 - 🌱 currently persuing my Btech(Computer Engineer)degree
 
