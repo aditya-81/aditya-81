@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya
-- 👀 just a coding enthusiastic
+- 👀 just a coding enthusiast
 - 🌱 currently persuing my Btech(Computer Engineer)degree
 
 <!---
